@@ -1,6 +1,6 @@
 # Markdown syntax guide
 
-![ background image]( https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotandline.net%2Fhow-stephen-hillenburgs-background-in-marine-biology-helped-influence-spongebob-squarepants%2F&psig=AOvVaw1_LvH7jqysxKTfZwPsaXDP&ust=1673636147963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjRrdLawvwCFQAAAAAdAAAAABAR )
+![ background image]( https://dotandline.net/wp-content/uploads/2019/10/spongebob-marine-1024x576.png)
 
 
 ## Headers
