@@ -1,12 +1,8 @@
-# Markdown syntax guide
+# SPONGEBOB
 
 ![ background image]( https://dotandline.net/wp-content/uploads/2019/10/spongebob-marine-1024x576.png)
-style=”background-color:#FFFF00.″
+style=”background-color:#e6db12″
 
-
-## Headers
-
-# SPONGEBOB WEBPAGE
 ## Carlos Blanco
 ## xd no se que sribir
 ###### This is a Heading h6
