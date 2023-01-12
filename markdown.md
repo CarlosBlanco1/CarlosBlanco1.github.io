@@ -1,10 +1,6 @@
 # Markdown syntax guide
 
-<style>
-body {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dspongebob&psig=AOvVaw1_LvH7jqysxKTfZwPsaXDP&ust=1673636147963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjRrdLawvwCFQAAAAAdAAAAABAJ');
-}
-</style>
+![ background image]( https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotandline.net%2Fhow-stephen-hillenburgs-background-in-marine-biology-helped-influence-spongebob-squarepants%2F&psig=AOvVaw1_LvH7jqysxKTfZwPsaXDP&ust=1673636147963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjRrdLawvwCFQAAAAAdAAAAABAR )
 
 
 ## Headers
