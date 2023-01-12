@@ -6,10 +6,12 @@
 ## This is a Heading h2 
 ###### This is a Heading h6
 
+![xd](https://smoda.elpais.com/wp-content/uploads/2020/06/bob-esponja.jpg)
+
 ## Emphasis
 
-*This text will be italic*  
-_This will also be italic_
+*Italic text?*  
+_equisdeeee_
 
 **This text will be bold**  
 __This will also be bold__
@@ -20,10 +22,10 @@ _You **can** combine them_
 
 ### Unordered
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+* Solo pongo
+* Mucho texto 
+* Aca xd
+* No se que escribir
 
 ### Ordered
 
