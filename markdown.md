@@ -1,6 +1,11 @@
 # Markdown syntax guide
 
-<p style="background-image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/df9v38z-3efd383e-1e9d-4a7d-9a3f-1f609f5e30d4.png/v1/fill/w_1131,h_707,q_70,strp/spongebob_background__by_walking_with_dragons_df9v38z-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvYzIwNDc4NjgtZWIzZi00NWE5LTg0YWMtYTEyNTEwYmZlZGQ5XC9kZjl2Mzh6LTNlZmQzODNlLTFlOWQtNGE3ZC05YTNmLTFmNjA5ZjVlMzBkNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5FQAX7reMdzhSU5_IFCGesKPS2PCf0ySLbi2aMFp5v4;">
+<style>
+body {
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dspongebob&psig=AOvVaw1_LvH7jqysxKTfZwPsaXDP&ust=1673636147963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjRrdLawvwCFQAAAAAdAAAAABAJ');
+}
+</style>
+
 
 ## Headers
 
