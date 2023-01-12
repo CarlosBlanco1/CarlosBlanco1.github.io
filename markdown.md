@@ -1,6 +1,7 @@
 # Markdown syntax guide
 
 ![ background image]( https://dotandline.net/wp-content/uploads/2019/10/spongebob-marine-1024x576.png)
+style=”background-color:#FFFF00.″
 
 
 ## Headers
