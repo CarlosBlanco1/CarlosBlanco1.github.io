@@ -14,36 +14,81 @@ Guidance and Testing
 */
 
 body {
-    margin: 0em 4em 0em 4em;
-    font-family: Open Sans;
-    font-size: 1rem;
+    margin: 0em 4em;
+    background: #f9f9f9;
   }
+
+article {
+    background-color: white;
+  } 
   
+img{
+    width: 100%;
+    height: auto;
+    padding-left: 0em;
+    padding-right: 10em;
+}
+
   h1, blockquote {
-    font-family: Roboto Slab;
-    font-size: 2rem;
+    font-family: 'Roboto Slab', serif;
   }
-  
-  blockquote {
+
+
+  h1 {
+    font-size: 2rem;
+    color: #9f2042;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 1px;
+  }
+
+  #details{
+    color: #a9a9ba;
+    text-align: center;
     font-size: 1.25rem;
   }
-  
-  a {
-    color: #9f2042;
-    text-decoration: none;
-    border-radius: 5px;
-    padding: 0.5em 1em;
-    border: 1px solid #9f2042;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 1em 0;
+
+  *, p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+    padding-left: 10px;
+    padding-right:10px;
   }
   
-  a:hover {
+
+  blockquote{
+    font-size: 1.15rem;
+    background-color:  #f9f9f9;
+    padding: 1.25em;
+    margin: 0.5em;
+    margin-left: 1em;
+    margin-left: 1em;
+    border: 0.15em solid #ececec;
+  }
+
+ a{
+    color: #ec8295;
+    text-decoration: none;
+  }
+  
+  #buttons a[href^="http"] {
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    padding: 0.5em;
+  }
+  
+  #buttons a:hover{
     background-color: #a9a9ba;
     color: #9f2042;
   }
   
-  img {
+  footer {
+    background-color: #29293a;
+    color: #f7f7f7;
+    bottom: 0;
     width: 100%;
+    height: 100%;  
+    font-size: 0.9rem;
+    padding: 1em;
+    margin-top: 2em;
   }
