@@ -1,0 +1,108 @@
+
+* {
+   box-sizing: border-box;
+}
+body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
+   margin: 0;
+   padding: 0;
+}
+body {
+   font-family: 'Open Sans', sans-serif;
+   box-sizing: border-box;
+   background-color: #F0F4F8;
+   font-weight: 300;
+}
+header{
+   background-image: url(/images/florence.jpg);
+   background-size: cover;
+   width: 100%;
+   min-height: 500px;
+}
+nav{
+   background-image: url(/images/logo.png);
+   background-size: 60px;
+   background-repeat: no-repeat;
+   padding-bottom: 40px;
+   padding-top: 20px;
+   padding-left: 100px;
+   
+}
+li{
+   display: inline-block;
+}
+li a{
+   list-style-type: none;
+   color: #51279B;
+   text-decoration: none;
+   font-size: 15px;
+   padding-right: 20px;
+   font-weight: 600;
+}
+header div{
+   color: white;
+   padding-left: 100px;
+}
+header p{
+  font-size: 24px; 
+  padding-bottom: 30px;
+}
+header div a{
+   text-decoration: none;
+   color: white;
+   background-color: #51279B;
+   padding-right: 20px;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+h2{
+   padding-top: 70px;
+   font-size: 48px;
+   padding-bottom: 50px;
+}
+.card {
+   display: inline-block;
+   background-color: white;
+}
+.card h3, .card img, .card p{
+   width: 450px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+  
+}
+main{
+   padding-top: 20px;
+}
+.card h3{
+   font-size: 14px;
+}
+.card .description{
+   font-size: 12px;
+}
+.card .social{
+   font-size: 10px;
+}
+.heart{
+   background-image: url(/images/heart.png);
+   padding-bottom: 20px;
+   background-size: 10px;
+   background-repeat: no-repeat;
+   padding-left: 15px;
+}
+.comment{
+   background-image: url(/images/comment.png);
+   padding-bottom: 20px;
+   background-size: 10px;
+   background-repeat: no-repeat;
+   padding-left: 15px;
+   margin-left: 10px;
+}
+body{
+   background-color: lightgrey;
+}
+.card div{
+   margin-bottom: 20px;
+}
+
+/* add styles here */
