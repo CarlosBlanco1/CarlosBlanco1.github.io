@@ -13,13 +13,13 @@ body {
    font-weight: 300;
 }
 header{
-   background-image: url(/images/florence.jpg);
+   background-image: url(images/florence.jpg);
    background-size: cover;
    width: 100%;
    min-height: 500px;
 }
 nav{
-   background-image: url(/images/logo.png);
+   background-image: url(images/logo.png);
    background-size: 60px;
    background-repeat: no-repeat;
    padding-bottom: 40px;
@@ -84,14 +84,14 @@ main{
    font-size: 10px;
 }
 .heart{
-   background-image: url(/images/heart.png);
+   background-image: url(images/heart.png);
    padding-bottom: 20px;
    background-size: 10px;
    background-repeat: no-repeat;
    padding-left: 15px;
 }
 .comment{
-   background-image: url(/images/comment.png);
+   background-image: url(images/comment.png);
    padding-bottom: 20px;
    background-size: 10px;
    background-repeat: no-repeat;
